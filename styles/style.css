@@ -1,0 +1,64 @@
+body {
+    background: radial-gradient(circle, #988a06, #350681);
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: transparent; /*No background color */
+    padding: 20 px;
+    margin: 30 px;
+    max-width: __________;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    border-bottom: __________;
+    padding-bottom: __________;
+}
+
+p {
+    color: aquamarine;
+    font-size: __________;
+    line-height: __________;
+}
+
+.image-box {
+    text-align: center;
+    margin: __________;
+}
+
+img {
+    width: __________;
+    border-radius: __________;
+    border: __________;
+}
+
+ul {
+    text-align: center;
+    color: bisque;
+    list-style-type: __________;
+    padding-left: __________;
+}
+
+li {
+    margin-bottom: __________;
+}
+
+a:hover {
+    text-shadow: #988a06;
+    text-align: center;
+    color: red; /* Change text color*/
+    text-decoration: double;
+}
+
+a:hover {
+    text-decoration: __________;
+}
